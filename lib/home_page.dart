@@ -34,7 +34,6 @@ class HomePage extends StatelessWidget {
                 child: Text("Jannatul Ferdous", style: TextStyle(fontSize: 30,fontWeight: FontWeight.bold,color: Colors.blueAccent),),
             ),
 
-
             Padding(
               padding:const EdgeInsets.all(0),
                 child: Text(" Phone: +8801827687554 ",style: TextStyle(fontSize: 18,color: Colors.blueAccent.shade200)),
